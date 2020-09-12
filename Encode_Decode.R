@@ -1,4 +1,4 @@
-# Implemnation in R of Laurent Boué's article, "Real numbers, data science
+# Implementation in R of Laurent Boué's article, "Real numbers, data science
 # and chaos: How to fit any dataset with a single parameter". See
 # arXiv: 1904.12320v1
 
